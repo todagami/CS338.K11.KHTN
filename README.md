@@ -13,7 +13,9 @@ TensorFlow 2.0 (CPU or GPU)
 
 ##################################
 build codd: python main.py (chạy giao diện)
+
 code nằm trong cùng một thư mục có định dạng như bên dưới:
+
 ├── examples [25 entries]
 ├── gtsrb-german-traffic-sign
 │   ├── Meta [43 entries]
