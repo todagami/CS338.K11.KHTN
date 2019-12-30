@@ -1,1 +1,14 @@
-download dataset from here: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/ 
+tải bộ dataset tại đây: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/ 
+sau khi giải nét sẽ được thư mục có cấu trúc như dưới:
+── gtsrb-german-traffic-sign
+│   ├── Meta [43 entries]
+│   ├── Test [12631 entries]
+│   ├── Train [43 entries]
+│   ├── meta-1 [43 entries]
+│   ├── test-1 [12631 entries]
+│   ├── train-1 [43 entries]
+│   ├── Meta.csv
+│   ├── Test.csv
+│   └── Train.csv
+
+
